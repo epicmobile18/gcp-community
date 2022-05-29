@@ -1,0 +1,42 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cloud Run: Deploy - run dev1test1 rb-prod asia-northeast1" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;sinho0689@gmail.com&quot;,&quot;projectId&quot;:&quot;kidskid-19&quot;,&quot;projectName&quot;:&quot;readybaby-production&quot;,&quot;projectNumber&quot;:405573518541}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}" gcbSettings="{}">
+    <option name="allowRunningInParallel" value="false" />
+    <option name="buildEnvironment" value="Local" />
+    <option name="buildpacksEnv">
+      <map />
+    </option>
+    <option name="cloudSqlConnections">
+      <list />
+    </option>
+    <option name="concurrency" value="80" />
+    <option name="cpuAllocated" value="1" />
+    <option name="customCpuAllocated" value="" />
+    <option name="dockerBuildArgs">
+      <map />
+    </option>
+    <option name="dockerTarget" value="" />
+    <option name="environmentVariables">
+      <map />
+    </option>
+    <option name="gkeClusterLocation" />
+    <option name="gkeClusterName" />
+    <option name="gkeClusterNamespace" value="default" />
+    <option name="gkeConnectivity" value="EXTERNAL" />
+    <option name="imagePath" value="gcr.io/kidskid-19/serverless-static-ip1-dev1test1" />
+    <option name="loadingAvailableBuilders" value="false" />
+    <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
+    <option name="managedRegion" value="asia-northeast1" />
+    <option name="maxInstances" value="1" />
+    <option name="memoryAllocated" value="MIB_256" />
+    <option name="minInstances" value="" />
+    <option name="platform" value="FULLY_MANAGED" />
+    <option name="selectedOptions">
+      <set />
+    </option>
+    <option name="serviceAccount" value="" />
+    <option name="serviceName" value="serverless-static-ip1-dev1test1-asia-northeast1" />
+    <option name="timeout" value="300" />
+    <option name="vpcConnector" value="b-asia-northeast1-default" />
+    <method v="2" />
+  </configuration>
+</component>
